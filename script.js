@@ -1,7 +1,4 @@
 (function () {
-  
-  window.helloSpeaker = helloSpeaker;
-  window.byeSpeaker = byeSpeaker;
 
   const names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
